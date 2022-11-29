@@ -4,6 +4,9 @@
 ## Gameplay
 Defend Tower is a simple tower defence fps game. You must destroy enemies who're spawning from a certain distance.
 
+## In-Game Screenshot
+![](ingamepicture.png)
+
 ## How to play?
 W, A, S and D to move player character.
 Space to jump.
