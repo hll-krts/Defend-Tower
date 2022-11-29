@@ -18,3 +18,5 @@ Tower_sc
 
 
 ## https://doctor-aquisio.itch.io/defend-tower
+
+(Only assets used are "Yughues Free Ground Material" and "Yughues Free Pavement Materials" from Asset Store)
