@@ -14,10 +14,12 @@ Esc to open/close pause menu.
 Mouse left-right movement to look around. (Up-down movement coming soon)
 
 ## Scripts I wrote 
-BulletBehaviour_sc
-Fire_sc
-GameControl_sc
-Tower_sc
+BulletBehaviour_sc,
+Fire_sc,
+GameControl_sc,
+Tower_sc,
+sc_KeepBGM,
+sc_MainMenuControls
 
 
 ## https://doctor-aquisio.itch.io/defend-tower
