@@ -24,4 +24,4 @@ sc_MainMenuControls
 
 ## https://doctor-aquisio.itch.io/defend-tower
 
-(Assets used are "Yughues Free Ground Material" and "Yughues Free Pavement Materials" from Asset Store)
+(Assets used are "Animated Loading Icons", Zombie[by Pxltiger], "Yughues Free Ground Material" and "Yughues Free Pavement Materials" from Asset Store)
